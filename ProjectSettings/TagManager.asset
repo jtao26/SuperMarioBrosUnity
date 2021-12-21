@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ground
+  - Elements
+  - Pipe
+  - Block
+  - Coin
+  - QBlock
+  - Turtle
+  - Shell
+  - Controller
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Bound
+  - Blocks
+  - Elements
+  - Enemy
+  - Player
+  - Coins
+  - Flag
+  - FlagBase
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3708582463
+    locked: 0
+  - name: Coins
+    uniqueID: 1744119279
+    locked: 0
+  - name: Blocks
+    uniqueID: 3373089761
+    locked: 0
+  - name: Enemy
+    uniqueID: 231692049
+    locked: 0
+  - name: Player
+    uniqueID: 3880553523
+    locked: 0
+  - name: Pipe
+    uniqueID: 1549011289
+    locked: 0
+  - name: Flag
+    uniqueID: 1542494909
+    locked: 0
+  - name: FlagBase
+    uniqueID: 1321488875
+    locked: 0
